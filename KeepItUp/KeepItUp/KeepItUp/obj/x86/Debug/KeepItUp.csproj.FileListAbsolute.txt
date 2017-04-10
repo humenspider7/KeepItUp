@@ -1,0 +1,16 @@
+C:\Users\eahscs\Documents\GitHub\KeepItUp\KeepItUp\KeepItUp\KeepItUp\bin\x86\Debug\KeepItUp.exe
+C:\Users\eahscs\Documents\GitHub\KeepItUp\KeepItUp\KeepItUp\KeepItUp\bin\x86\Debug\KeepItUp.pdb
+C:\Users\eahscs\Documents\GitHub\KeepItUp\KeepItUp\KeepItUp\KeepItUp\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\eahscs\Documents\GitHub\KeepItUp\KeepItUp\KeepItUp\KeepItUp\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\eahscs\Documents\GitHub\KeepItUp\KeepItUp\KeepItUp\KeepItUp\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\eahscs\Documents\GitHub\KeepItUp\KeepItUp\KeepItUp\KeepItUp\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\eahscs\Documents\GitHub\KeepItUp\KeepItUp\KeepItUp\KeepItUp\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\eahscs\Documents\GitHub\KeepItUp\KeepItUp\KeepItUp\KeepItUp\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\eahscs\Documents\GitHub\KeepItUp\KeepItUp\KeepItUp\KeepItUp\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\eahscs\Documents\GitHub\KeepItUp\KeepItUp\KeepItUp\KeepItUp\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\eahscs\Documents\GitHub\KeepItUp\KeepItUp\KeepItUp\KeepItUp\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\eahscs\Documents\GitHub\KeepItUp\KeepItUp\KeepItUp\KeepItUp\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\eahscs\Documents\GitHub\KeepItUp\KeepItUp\KeepItUp\KeepItUp\obj\x86\Debug\KeepItUp.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\KeepItUp\KeepItUp\KeepItUp\KeepItUp\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\eahscs\Documents\GitHub\KeepItUp\KeepItUp\KeepItUp\KeepItUp\obj\x86\Debug\KeepItUp.exe
+C:\Users\eahscs\Documents\GitHub\KeepItUp\KeepItUp\KeepItUp\KeepItUp\obj\x86\Debug\KeepItUp.pdb

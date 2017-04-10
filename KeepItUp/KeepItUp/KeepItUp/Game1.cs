@@ -19,6 +19,13 @@ namespace KeepItUp
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
+        enum GameStates { TitleScreen, Playing, GameOver};
+        GameStates gameState = GameStates.TitleScreen;
+        Texture2D titleScreen;
+        Texture2D spriteSheet;
+
+
+
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
@@ -71,6 +78,23 @@ namespace KeepItUp
                 this.Exit();
 
             // TODO: Add your update logic here
+
+
+            switch(gameState)
+            {
+                case GameStates.TitleScreen:
+                    break;
+
+                case GameStates.Playing:
+                    break;
+
+                case GameStates.GameOver:
+                    break;
+                
+
+
+
+            }
 
             base.Update(gameTime);
         }
